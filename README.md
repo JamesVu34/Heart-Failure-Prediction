@@ -16,7 +16,7 @@ This project focuses on analyzing four different heart failure datasets using ma
 ## Features
 - Data Cleaning & Preprocessing
 - Exploratory Data Analysis (EDA)
-- Model Building (TODO: ADD WHAT MODELS WE ARE USING)
+- Model Building: Logistic Regression & Random Forest
 - Model Evaluation & Comparison
 - Visualizations & Feature Importance
 
